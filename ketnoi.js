@@ -6,12 +6,12 @@
 const SKT_GAS_URL = "https://script.google.com/macros/s/AKfycbys_v4n0ZrCV0ZnW98QHmHGtynI8V4cbeEHCz51y3XnYr3QBOfPoXBM7YPI8nhNrxEyIw/exec";
 const SKT_LOGO_URL = "https://i.ibb.co/8Df1xXsN/Logo-nguyen-du.png";
 
-const SKT_TEN_TRUONG = "Trường Tiểu học Nguyễn Du";
-const SKT_TEN_TRUONG_UP = "TRƯỜNG Tiểu học Nguyễn Du";
+const SKT_TEN_TRUONG = "TRƯỜNG TIỂU HỌC NGUYỄN DU";
+const SKT_TEN_TRUONG_UP = "TRƯỜNG TIỂU HỌC NGUYỄN DU";
 const SKT_TEN_PM = "Sổ Kiểm Tra Nội Bộ";
 const SKT_TEN_PM_UP = "SỔ KIỂM TRA NỘI BỘ";
 const SKT_TEN_PM_DAY_DU = "PHẦN MỀM KIỂM TRA NỘI BỘ";
-const SKT_PHIEN_BAN = "V3.1.2026";
+const SKT_PHIEN_BAN = "V6.5.2026";
 const SKT_TAC_GIA = "Hoàng Ngọc Lâm";
 const SKT_TAC_GIA_UP = "HOÀNG NGỌC LÂM";
 
